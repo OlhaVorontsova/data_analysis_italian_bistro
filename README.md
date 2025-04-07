@@ -1,4 +1,4 @@
-# Data Analysis Report. Italian Bistro Sales Data: A Year in Numbers
+# Data Analysis Report of Italian Bistro Sales Data
 
 ## Description:
 This project explores restaurant sales data to analyze revenue, sales trends, customer preferences and menu performance.
